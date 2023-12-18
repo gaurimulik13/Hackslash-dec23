@@ -17,14 +17,20 @@ grid-template-columns: auto auto auto;
 gap: 2.5rem;
 padding: 5rem 7rem;
 margin-top: 4.5rem;
-}
+/* border: 0.2rem dotted #fff; */
 
+
+
+}
 
 .gallery-container img{
     width: 95%;
     height: auto;
     /* border: 0.4rem solid black; */
     transition: all .4s ease-in-out; 
+    border: 0.2rem solid #fff;
+    border-radius: 0.5rem ;
+    box-shadow: 10px 10px 14px #5a5a5a;
 }
 
 /* .gallery-container img:hover { transform: scale(1.1); } */
