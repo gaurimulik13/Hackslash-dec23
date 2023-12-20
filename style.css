@@ -1,8 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&display=swap');
 
 :root {
-    --main-color: #a855f7; 
-    --main-color: #53219a;
+    /* --main-color: #a855f7;  */
+    --main-color: #BF0A30;
+    /* --main-color: #53219a; */
     --black: #13131a;
     --bg: #010103;
     --border: .1rem solid rgba(255, 255, 255, .3);
@@ -110,8 +111,9 @@ section {
     color: #121212!important;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: 500;
-    padding-inline: 2rem;
-    color: #fff !important 
+    padding-inline: 1rem;
+    color: #fff !important ;
+
 }
 
 .header .navbar a:hover {
